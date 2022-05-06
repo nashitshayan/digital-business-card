@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.2cc0429c.css",
+    "main.js": "/digital-business-card/static/js/main.0bd60bab.js",
+    "static/js/787.86b5e812.chunk.js": "/digital-business-card/static/js/787.86b5e812.chunk.js",
+    "static/media/Nashit_new_photo.jpg": "/digital-business-card/static/media/Nashit_new_photo.78d947865747c727a67a.jpg",
+    "index.html": "/digital-business-card/index.html",
+    "main.2cc0429c.css.map": "/digital-business-card/static/css/main.2cc0429c.css.map",
+    "main.0bd60bab.js.map": "/digital-business-card/static/js/main.0bd60bab.js.map",
+    "787.86b5e812.chunk.js.map": "/digital-business-card/static/js/787.86b5e812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc0429c.css",
+    "static/js/main.0bd60bab.js"
+  ]
+}
